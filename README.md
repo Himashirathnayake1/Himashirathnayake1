@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Current Project:** [TapOn-original](https://github.com/Himashirathnayake1/TapOn-original) – A comprehensive solution for handyman services and tool rentals.
+- 🔭 **Current Project:** [CashCollectorApp](https://github.com/Himashirathnayake1/cashcollector-) – A comprehensive solution for handyman services and tool rentals.
 - 🌱 **Currently Learning:** Advanced Flutter animations and enhancing backend efficiency with Node.js.
 - ⚡ **Fun Fact:** I enjoy blending technology with creativity to develop innovative solutions!
 
