@@ -1,67 +1,202 @@
-<h1 align="center">Hi there, I'm Himashi Rathnayake 👋</h1>
+<h1 align="center">Hi 👋, I'm Himashi Rathnayake</h1>
+
+<h3 align="center">
+Software Engineering Intern | Flutter Developer | Cross-Platform Application Developer
+</h3>
+
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Mobile+%26+Web+Technologies+Developer;Open+to+Collaborations+%F0%9F%91%8B;Focused+on+Innovative+Tech+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Flutter+Developer;Software+Engineering+Intern;Cross-Platform+Application+Developer;AI+%26+Real-Time+Communication+Apps;Building+Modern+Scalable+Solutions" />
+</p>
+
+<p align="center">
+  <a href="mailto:himashirathnayake182@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Himashirathnayake1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/himashi-rathnayake-118961290/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+# 💫 About Me
 
-- 🔭 **Current Project:** [CashCollectorApp]-((https://github.com/Himashirathnayake1/CashCollector-) – A comprehensive solution for handyman services and tool rentals.
-- 🌱 **Currently Learning:** Advanced Flutter animations and enhancing backend efficiency with Node.js.
-- ⚡ **Fun Fact:** I enjoy blending technology with creativity to develop innovative solutions!
+💻 Software Engineering Intern with hands-on experience in building modern cross-platform applications using Flutter, Firebase, and scalable backend integrations.
+
+🚀 Experienced in developing real-time communication systems, AI-powered applications, speech processing solutions, and API-driven architectures across mobile, web, and desktop platforms.
+
+🎯 Passionate about:
+- Cross-platform mobile app development
+- Modern UI/UX design
+- Real-time systems & AI integrations
+- Scalable backend architectures
+- Performance optimization
+
+🧠 Strong understanding of:
+- REST API integrations
+- Firebase ecosystem
+- Real-time audio/video communication
+- Speech-to-Text & Text-to-Speech systems
+- Clean UI implementation & responsive design
+
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 🎙️ AI Voice English Teacher
+**Flutter • Agora RTC • Deepgram • Gemini**
+
+🔹 AI-powered English speaking practice application  
+🔹 Real-time voice communication system  
+🔹 Speech-to-Text & Text-to-Speech integration  
+🔹 Audio recording & playback handling  
+
+🔗 
+<a href="https://github.com/Himashirathnayake1/AiEnglishTeacher">
+Repository
+</a>
+
+</td>
+
+<td width="50%">
+
+## 📝 Sync Transcript App
+**Flutter • Deepgram**
+
+🔹 Real-time audio transcription system  
+🔹 Transcript playback with timestamps  
+🔹 Highlighted transcript synchronization  
+🔹 Optimized speech processing workflow  
+
+🔗 
+<a href="https://github.com/Himashirathnayake1/sync_transcript">
+Repository
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🛠️ TapOn – Handyman App
+**Flutter • Node.js • MongoDB**
+
+🔹 Service booking & tool rental platform  
+🔹 Location-based service integration  
+🔹 Mobile-first responsive UI  
+🔹 Real-time user interactions  
+
+🔗 
+<a href="https://github.com/Himashirathnayake1/TapOn-original">
+Repository
+</a>
+
+</td>
+
+<td width="50%">
+
+## 💰 Cash Collection System
+**Flutter • Firebase**
+
+🔹 Cash collection & admin management apps  
+🔹 Route-based shop management  
+🔹 Credit tracking & balance handling  
+🔹 Reports, charts & transaction tracking  
+
+🔗 
+<a href="https://github.com/Himashirathnayake1/pegas_cash_collector">
+Repository
+</a>
+
+</td>
+</tr>
+
+
+
+<td width="50%">
+
+## 🎧 Shadowing App
+**Flutter**
+
+🔹 Speaking practice with YouTube transcripts  
+🔹 Transcript synchronization system  
+🔹 TTS playback & translation support  
+🔹 Smooth scrolling transcript experience  
+
+🔗 
+<a href="https://github.com/Himashirathnayake1/english_shadowing_app">
+Repository
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🚀 Projects & Work
+# 🛠️ Technical Skills
 
-| Project | Description | Tech Stack |
-| --- | --- | --- |
-| **TapOn-original** | A mobile app connecting service seekers with handymen, featuring real-time tracking and secure payments. | Flutter, Firebase, Node.js, MongoDB |
-| **Tea Time** | A restaurant management system designed to streamline operations and enhance customer experience. | Flutter, Firebase, Node.js |
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,js,html,css" />
+</p>
 
----
+### 📱 Frameworks & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,nodejs" />
+</p>
 
-### 🛠️ Tech Toolbox
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Code-Flutter-blue?logo=flutter&logoColor=white&style=flat-square" />
-    <img src="https://img.shields.io/badge/Code-Node.js-green?logo=node.js&logoColor=white&style=flat-square" />
-    <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb&logoColor=white&style=flat-square" />
-    <img src="https://img.shields.io/badge/Cloud-Firebase-orange?logo=firebase&logoColor=white&style=flat-square" />
-    <img src="https://img.shields.io/badge/IDE-VS%20Code-blue?style=flat-square&logo=visual-studio-code" />
-    <img src="https://img.shields.io/badge/Design-Figma-purple?style=flat-square&logo=figma" />
-    <img src="https://img.shields.io/badge/Graphics-Photoshop-blue?style=flat-square&logo=adobe-photoshop" />
-    <img src="https://img.shields.io/badge/Version%20Control-Git%20%26%20GitHub-green?style=flat-square&logo=git" />
+### ⚙️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,androidstudio,figma,postman" />
 </p>
 
 ---
 
-### 📈 GitHub Status
+# 📚 APIs & Integrations
 
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Himashirathnayake1&show_icons=true&theme=radical&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himashirathnayake1&layout=compact&langs_count=8&theme=radical" />
-</div>
+- REST APIs
+- Dio & HTTP
+- Firebase Authentication
+- Firestore Database
+- Agora RTC
+- Deepgram (STT/TTS)
+- Gemini AI
+- Twilio
+- Flutter Maps
 
----
-
-### 🤝 Connect with Me
+# 🤝 Connect With Me
 
 <p align="center">
-    <a href="https://linkedin.com/in/yourprofile" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-    </a>
-    <a href="https://twitter.com/yourprofile" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter"/>
-    </a>
-    <a href="mailto:your.email@example.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email"/>
-    </a>
+  <a href="mailto:himashirathnayake182@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Himashirathnayake1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/himashi-rathnayake-118961290/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Himashirathnayake1/Himashirathnayake1/main/assets/footer-animation.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,100:6C63FF&section=footer"/>
 </p>
