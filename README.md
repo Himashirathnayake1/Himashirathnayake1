@@ -1,202 +1,232 @@
-<h1 align="center">Hi 👋, I'm Himashi Rathnayake</h1>
+# 👋 Hi, I'm Himashi Rathnayake
 
-<h3 align="center">
-Software Engineering Intern | Flutter Developer | Cross-Platform Application Developer
-</h3>
+### 💻 Software Engineer | Flutter | React | Node.js | Firebase | AI Integrations
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Flutter+Developer;Software+Engineering+Intern;Cross-Platform+Application+Developer;AI+%26+Real-Time+Communication+Apps;Building+Modern+Scalable+Solutions" />
-</p>
+I'm a passionate **Software Engineer** with hands-on experience building mobile, web, and backend applications using modern technologies.
 
-<p align="center">
-  <a href="mailto:himashirathnayake182@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+I have experience developing **cross-platform applications, REST APIs, real-time communication systems, AI-powered features, speech processing solutions, and database-driven applications**. I enjoy solving real-world problems through clean, scalable, and user-friendly software.
 
-  <a href="https://github.com/Himashirathnayake1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/himashi-rathnayake-118961290/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+Currently, I'm expanding my expertise across **software engineering, web development, backend systems, cloud technologies, and AI integrations**.
 
 ---
 
-# 💫 About Me
+## 🚀 What I Do
 
-💻 Software Engineering Intern with hands-on experience in building modern cross-platform applications using Flutter, Firebase, and scalable backend integrations.
+* 📱 Cross-platform Mobile Development with Flutter
+* 🌐 Web Development with React, JavaScript, HTML & CSS
+* ⚙️ Backend Development with Node.js & Express.js
+* 🔌 REST API Development & Integration
+* 🔥 Firebase & Cloud-based Applications
+* 🤖 AI-powered Application Development
+* 🎙️ Speech-to-Text & Text-to-Speech Systems
+* 📡 Real-time Audio & Video Communication
+* 🗄️ Database Design & Integration
+* 🎨 Responsive UI/UX Development
 
-🚀 Experienced in developing real-time communication systems, AI-powered applications, speech processing solutions, and API-driven architectures across mobile, web, and desktop platforms.
-
-🎯 Passionate about:
-- Cross-platform mobile app development
-- Modern UI/UX design
-- Real-time systems & AI integrations
-- Scalable backend architectures
-- Performance optimization
-
-🧠 Strong understanding of:
-- REST API integrations
-- Firebase ecosystem
-- Real-time audio/video communication
-- Speech-to-Text & Text-to-Speech systems
-- Clean UI implementation & responsive design
-
+---
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
 ## 🎙️ AI Voice English Teacher
+
 **Flutter • Agora RTC • Deepgram • Gemini**
 
-🔹 AI-powered English speaking practice application  
-🔹 Real-time voice communication system  
-🔹 Speech-to-Text & Text-to-Speech integration  
-🔹 Audio recording & playback handling  
+An AI-powered English speaking practice application focused on real-time voice interaction and speech processing.
 
-🔗 
-<a href="https://github.com/Himashirathnayake1/AiEnglishTeacher">
-Repository
-</a>
+### Key Features
 
-</td>
+* 🎤 Real-time voice communication
+* 🗣️ Speech-to-Text integration
+* 🔊 Text-to-Speech functionality
+* 🤖 AI-powered conversation
+* 🎧 Audio recording & playback
+* 📊 Speech processing workflow
 
-<td width="50%">
+🔗 **[View Repository](YOUR_REPOSITORY_LINK)**
+
+---
 
 ## 📝 Sync Transcript App
-**Flutter • Deepgram**
 
-🔹 Real-time audio transcription system  
-🔹 Transcript playback with timestamps  
-🔹 Highlighted transcript synchronization  
-🔹 Optimized speech processing workflow  
+**Flutter • Deepgram • Speech Processing**
 
-🔗 
-<a href="https://github.com/Himashirathnayake1/sync_transcript">
-Repository
-</a>
+A speech transcription application designed to synchronize audio playback with generated transcripts.
 
-</td>
-</tr>
+### Key Features
 
-<tr>
-<td width="50%">
+* 🎙️ Real-time audio transcription
+* ⏱️ Timestamp-based transcript synchronization
+* 📝 Automatic transcript highlighting
+* 🎧 Audio playback
+* ⚡ Optimized speech processing workflow
 
-## 🛠️ TapOn – Handyman App
-**Flutter • Node.js • MongoDB**
-
-🔹 Service booking & tool rental platform  
-🔹 Location-based service integration  
-🔹 Mobile-first responsive UI  
-🔹 Real-time user interactions  
-
-🔗 
-<a href="https://github.com/Himashirathnayake1/TapOn-original">
-Repository
-</a>
-
-</td>
-
-<td width="50%">
-
-## 💰 Cash Collection System
-**Flutter • Firebase**
-
-🔹 Cash collection & admin management apps  
-🔹 Route-based shop management  
-🔹 Credit tracking & balance handling  
-🔹 Reports, charts & transaction tracking  
-
-🔗 
-<a href="https://github.com/Himashirathnayake1/pegas_cash_collector">
-Repository
-</a>
-
-</td>
-</tr>
-
-
-
-<td width="50%">
-
-## 🎧 Shadowing App
-**Flutter**
-
-🔹 Speaking practice with YouTube transcripts  
-🔹 Transcript synchronization system  
-🔹 TTS playback & translation support  
-🔹 Smooth scrolling transcript experience  
-
-🔗 
-<a href="https://github.com/Himashirathnayake1/english_shadowing_app">
-Repository
-</a>
-
-</td>
-</tr>
-</table>
+🔗 **[View Repository](YOUR_REPOSITORY_LINK)**
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ TapOn – Handyman & Tool Rental Platform
 
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=dart,js,html,css" />
-</p>
+**Flutter • Node.js • Express.js • MongoDB**
 
-### 📱 Frameworks & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,nodejs" />
-</p>
+A service booking and tool rental platform connecting service seekers, service providers, and shop owners.
+
+### Key Features
+
+* 🔧 Service booking
+* 🛠️ Tool rental
+* 📍 Location-based provider discovery
+* 👤 Provider & customer management
+* ⭐ Rating & review system
+* 🔔 Notifications
+* 💬 Real-time interactions
+* 🔐 OTP-based authentication
+
+🔗 **[View Repository](YOUR_REPOSITORY_LINK)**
+
+---
+
+## 💰 Cash Collection Management System
+
+**Flutter • Firebase • Firestore**
+
+A mobile-based cash collection and management system designed for sales representatives and administrators.
+
+### Key Features
+
+* 💵 Cash collection management
+* 🏪 Shop & customer management
+* 🛣️ Route-based shop management
+* 💳 Credit & balance tracking
+* 📊 Reports & charts
+* 🧾 Transaction management
+* 🔥 Firebase integration
+
+🔗 **[View Repository](YOUR_REPOSITORY_LINK)**
+
+---
+
+## 🎧 Shadowing English Practice App
+
+**Flutter • TTS • Speech Processing**
+
+An English speaking practice application using synchronized transcripts and audio playback to improve pronunciation and speaking skills.
+
+### Key Features
+
+* 🎬 Transcript-based speaking practice
+* 🎧 Audio playback
+* 🔊 Text-to-Speech
+* 🌐 Translation support
+* 📝 Synchronized transcripts
+* 📜 Smooth transcript scrolling
+
+🔗 **[View Repository](YOUR_REPOSITORY_LINK)**
+
+---
+
+# 🧑‍💻 Technical Skills
+
+### 👨‍💻 Programming Languages
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+
+### 📱 Mobile & Web Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
 
 ### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat\&logo=sqlite\&logoColor=white)
 
 ### ⚙️ Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,androidstudio,figma,postman" />
-</p>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
 
 ---
 
-# 📚 APIs & Integrations
+# 🔌 APIs & Integrations
 
-- REST APIs
-- Dio & HTTP
-- Firebase Authentication
-- Firestore Database
-- Agora RTC
-- Deepgram (STT/TTS)
-- Gemini AI
-- Twilio
-- Flutter Maps
+* RESTful APIs
+* Dio & HTTP
+* Firebase Authentication
+* Cloud Firestore
+* Firebase Cloud Messaging
+* Agora RTC
+* Deepgram
+* Gemini AI
+* Twilio
+* Google Maps
+* Speech-to-Text
+* Text-to-Speech
+
+---
+
+# 🏗️ Software Engineering
+
+* Object-Oriented Programming
+* MVC Architecture
+* REST API Architecture
+* State Management
+* Authentication & Authorization
+* Database Integration
+* API Integration
+* Responsive UI Development
+* Real-time Communication
+* Error Handling
+* Debugging & Testing
+* Git & Version Control
+
+---
+
+# 📈 Currently Learning
+
+* 🌐 Advanced React
+* ⚙️ Backend & API Development
+* ☁️ Cloud Technologies
+* 🤖 AI & LLM Integrations
+* 🧩 Data Structures & Algorithms
+* 🏗️ Software Architecture
+* 🚀 Scalable Application Development
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himashirathnayake1&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himashirathnayake1&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
 
 # 🤝 Connect With Me
 
-<p align="center">
-  <a href="mailto:himashirathnayake182@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<p align="left">
 
-  <a href="https://github.com/Himashirathnayake1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/himashi-rathnayake-118961290/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://himashirathnayake1.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,100:6C63FF&section=footer"/>
-</p>
+### 💡 "Building practical solutions, learning continuously, and growing as a Software Engineer."
+
+⭐ Feel free to explore my repositories and projects.
