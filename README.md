@@ -55,28 +55,92 @@ Software Engineering Intern | Flutter Developer | Full-Stack Developer
 </p>
 
 ---
+---
 
 ## 🚀 Featured Projects
 
 ### 🎙️ AI Voice English Teacher
-**Flutter • Agora • Deepgram • Gemini**
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deepgram-101010?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Agora-099DFD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+</p>
 
-AI-powered English speaking application with real-time voice communication, STT/TTS, and AI interaction.
+> AI-powered English learning application with **real-time voice communication, speech recognition, and AI interaction**.
 
-### 🛠️ TapOn – Handyman Platform
-**Flutter • Node.js • MongoDB**
+**Experience:** Real-time systems • STT/TTS • AI integration • Audio processing
 
-Service booking and tool rental platform with location-based providers, authentication, and real-time features.
+---
+
+### 🛠️ TapOn – Handyman & Tool Rental Platform
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+
+> Full-stack service booking and tool rental platform connecting customers, service providers, and shop owners.
+
+**Experience:** REST APIs • Authentication • MongoDB • Location services • Real-time features
+
+---
 
 ### 📝 Sync Transcript App
-**Flutter • Deepgram**
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deepgram-101010?style=flat-square"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square"/>
+</p>
 
-Real-time speech transcription with timestamp synchronization and transcript highlighting.
+> Speech transcription application that synchronizes **audio playback with timestamp-based transcripts and live text highlighting**.
 
-### 💰 Cash Collection System
-**Flutter • Firebase**
+**Experience:** Speech processing • API integration • Audio playback • Data synchronization
 
-Cash collection and management system with shop management, transactions, reports, and dashboards.
+---
+
+### 💰 Cash Collection Management System
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+</p>
+
+> Mobile management system for **cash collection, shop management, transactions, credit tracking, and reporting**.
+
+**Experience:** Firebase • Firestore • Authentication • Real-time data • Data visualization
+
+---
+
+### 🎧 Shadowing English Practice App
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TTS-673AB7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/API_Integration-00897B?style=flat-square"/>
+</p>
+
+> English speaking practice application using **synchronized transcripts, audio playback, TTS, and translation**.
+
+**Experience:** TTS • Audio processing • API integration • Responsive UI
+
+---
+
+### 🌐 Developer Portfolio
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
+
+> Responsive personal portfolio showcasing my **software engineering projects, skills, and experience**.
+
+**Experience:** React • Responsive design • Component-based UI • GitHub Pages
+
+---
+
+### 🔎 [View All Projects →](https://github.com/himashirathnayake1?tab=repositories)
 
 ---
 
