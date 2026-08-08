@@ -59,6 +59,18 @@ Software Engineering Intern | Flutter Developer | Full-Stack Developer
 
 ## 🚀 Featured Projects
 
+### 🌱 AgriShare – Agricultural Community Platform
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  ...
+</p>
+
+> A full-stack web platform that helps farmers share agricultural knowledge, discover farming information, and connect through a multilingual community.
+
+**Experience:**: React • JavaScript • Node.js • Express.js • MongoDB • Mongoose • REST APIs • JWT Authentication • React Context API • i18next • Netlify
+
+---
 ### 🎙️ AI Voice English Teacher
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
