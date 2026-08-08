@@ -51,7 +51,7 @@ Software Engineering Intern | Flutter Developer | Full-Stack Developer
 
 ### 🗄️ Database • Cloud • Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite,git,github,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,sqlite,git,github,postman,figma" />
 </p>
 
 ---
